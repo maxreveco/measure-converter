@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    background-color: #1F2937;
+}
+
+.main {
+    margin: 0;
+    background-color: #6943FF;
+    padding: 4px;
+    text-align: center;
+}
+
+h3 {
+    color: #FFFFFF;
+}
+
+#input-value {
+    text-align: center;
+    width: 90px;
+    height: 60px;
+    font-size: 40px;
+    font-weight: bolder;
+    background-color: #6943FF;
+    border: 1px solid #B295FF;
+    border-radius: 5px;
+    color: #FFFFFF;
+    margin-bottom: 20px;
+}
+
+button {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    border: none;
+    padding: 8px;
+    border-radius: 5px;   
+    color: #3D3D3D;
+    font-size: small;
+}
+
+.result-card {
+    background-color: #273549;
+    width: 90%;
+    height: 80px;
+    margin: 0 auto;
+    margin-top: 25px;
+    margin-bottom: 10px;
+    border-radius: 5px 0 0 0;
+    padding: 5px 0 10px 0;
+}
+
+h4 {
+  text-align: center;
+  color: #CCC1FF;  
+}
+
+p {
+    text-align: center;
+    color: #FFFFFF;
+}
